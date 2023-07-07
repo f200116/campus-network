@@ -2,7 +2,7 @@
 针对郑州升达经贸管理学院校园网自动登录制作的python脚本  
 
 ## 安装依赖
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## 软件生成的文件介绍
 ```
